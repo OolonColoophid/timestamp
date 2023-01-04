@@ -44,6 +44,7 @@
 		5B436E63296436CF001809F4 = {
 			isa = PBXGroup;
 			children = (
+				5B436E762964375E001809F4 /* README.md */,
 				5B436E6E296436CF001809F4 /* timestamp */,
 				5B436E6D296436CF001809F4 /* Products */,
 			);
@@ -61,7 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				5B436E6F296436CF001809F4 /* timestamp.swift */,
-				5B436E762964375E001809F4 /* README.md */,
 			);
 			path = timestamp;
 			sourceTree = "<group>";

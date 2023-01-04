@@ -82,4 +82,4 @@ To Ioa.
 
 ### Licence
 
-MIT
+MIT.
